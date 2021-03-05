@@ -32,6 +32,14 @@ flask-sqlalchemy
 flask-login
 ```
 ## Preview of the application
-<p text-align="center">
-    <img src="https://github.com/Tuhin-thinks/Flask-UserAuth/blob/main/images/signup.png" width="250" height="auto">
-</p>
+<div class="banner">
+    <div style="display:inline-block;">
+        <img src="https://github.com/Tuhin-thinks/Flask-UserAuth/blob/main/images/signup.png" width="300" height="auto">
+    </div>
+    <div style="display:inline-block;">
+        <img src="https://github.com/Tuhin-thinks/Flask-UserAuth/blob/main/images/login.png" width="300" height="auto">
+    </div>
+    <div style="display:inline-block;">
+        <img src="https://github.com/Tuhin-thinks/Flask-UserAuth/blob/main/images/home.png" width="300" height="auto">
+    </div>
+</div>
